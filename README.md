@@ -1,5 +1,10 @@
 # NodeJS & ExpressJS Boilerplate Application
 
+## Pre-requisites
+ - Docker
+ - Node
+ - Express
+
 ## How to run?
 > $ make deploy
 
